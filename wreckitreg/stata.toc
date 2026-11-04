@@ -2,4 +2,4 @@
 1
 2
 3
-p ppml Poisson pseudo maximum likelihood (PPML) estimation Use ppml With STATA 19
+p wreckitreg Scale a variable that is transformed according to log(+1) or ihs() to obtain arbitrary regression coefficient or semi-elasticity estimates Use wreckitreg With STATA 19
