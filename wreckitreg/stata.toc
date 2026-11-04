@@ -1,0 +1,5 @@
+0
+1
+2
+3
+p ppml Poisson pseudo maximum likelihood (PPML) estimation Use ppml With STATA 19
