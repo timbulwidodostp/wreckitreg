@@ -1,0 +1,2 @@
+# wreckitreg
+Scale a variable that is transformed according to log(+1) or ihs() to obtain arbitrary regression coefficient or semi-elasticity estimates Use wreckitreg With STATA 19
